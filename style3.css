@@ -1,0 +1,46 @@
+.haut{
+    display: inline;
+    justify-content: space-between;
+}
+.haut_droit1{
+    text-align: left;
+    margin-top: -230px;
+    border: solid  chocolate;
+    background-color: chocolate;
+    margin-left: 970px;
+    padding-top: 82px;
+    padding-bottom: 80px;
+    padding-left: 5px;
+    color: white;
+}
+.haut_droit2{
+    text-align: right;
+    margin-top: -185px;
+    margin-right: 50px;
+}
+.haut_gauche{
+    text-align: left;
+    margin-top: 20px;
+    border: solid chocolate;
+    background-color:chocolate;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-right: 400px;
+}
+.principal{
+    text-align: left;
+    border: 2px solid black;
+    border-style: double;
+    padding-top: 20px;
+    padding-bottom: 75px;
+    margin-left: 515px;
+    margin-right: 490px;
+}
+.liens{
+    text-decoration: none;
+    list-style-type: none;
+}
+.li{
+    text-decoration: none;
+    color: chocolate;
+}
